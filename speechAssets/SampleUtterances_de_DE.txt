@@ -1,2 +1,7 @@
 TimetableIntent Abfahrten {Stage}
 TimetableIntent Abfahrten ab {Stage}
+TimetableIntent Abfahrten vom {Stage}
+TimetableIntent Verbindungen ab {Stage}
+TimetableIntent Verbindungen vom {Stage}
+TimetableIntent Bussen ab {Stage}
+TimetableIntent Bussen vom {Stage}
